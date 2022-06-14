@@ -2,6 +2,9 @@
 Console.WriteLine("Sirat Mokha");
 Console.WriteLine("Brookfield Central High School"); 
 Console.WriteLine("None"); 
+Console.WriteLine("Hello, my name is Noah Ren");
+Console.WriteLine("I will be attending Brookfield East High School next year");
+Console.WriteLine("The worst gift I've received is a book about public speaking");
 
 Console.WriteLine("Holly Raetz");
 Console.WriteLine("Attending New Berlin West next school year");
