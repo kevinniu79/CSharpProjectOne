@@ -9,3 +9,12 @@ Console.WriteLine("The worst gift I've received is a book about public speaking"
 Console.WriteLine("Holly Raetz");
 Console.WriteLine("Attending New Berlin West next school year");
 Console.WriteLine("The worst gift I've recieved was a tiny skillet for making cookies.");
+
+Console.WriteLine("My name is Aaditya Tiwari");
+Console.WriteLine("I will be attending BCHS");
+Console.WriteLine("What is the worst gift you have recieved?");
+string gift = Console.ReadLine();
+Console.WriteLine("Gift: " + gift);
+Console.WriteLine("What I want for graduation?");
+string grad = Console.ReadLine();
+Console.WriteLine("What I want: " + grad);
