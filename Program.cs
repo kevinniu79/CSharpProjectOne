@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Sirat Mokha");
-Console.WriteLine("Brookfield Central High School"); 
 Console.WriteLine("None"); 
 Console.WriteLine("Hello, my name is Noah Ren");
 Console.WriteLine("I will be attending Brookfield East High School next year");
@@ -18,3 +17,7 @@ Console.WriteLine("Gift: " + gift);
 Console.WriteLine("What I want for graduation?");
 string grad = Console.ReadLine();
 Console.WriteLine("What I want: " + grad);
+
+
+
+Console.WriteLine("I want a Mac or new computer for college");
